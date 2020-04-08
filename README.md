@@ -1,11 +1,11 @@
-### POC REACT
+# POC REACT
 
 The idea is build some components simulates app Front End. In This case i used React Library with another libraries for differents purposes explained
 below.
 
 ## Analysis
 
-# Learning Curve
+### Learning Curve
 The Library is very easy to use, it is fully integrated with "npm" , the syntax is ECMA6 and HTML.
 The Documentation is not very clear, different stable versions changed key concepts, so it is absolutely necessary know well the using version of library .
 
@@ -25,7 +25,7 @@ The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
 
-### Used Libraries
+## Used Libraries
 
 react-bootstrap: For using builted components.
 
